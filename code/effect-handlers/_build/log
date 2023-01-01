@@ -1,0 +1,6 @@
+# dune init project basic
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Workspace root:
+# /Users/jazz/ghq/github.com/nyinyithann/OCamlocampus/code/effect-handlers
+# Auto-detected concurrency: 8
